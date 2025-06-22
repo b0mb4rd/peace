@@ -1,0 +1,16 @@
+{
+  "name": "PEACE",
+  "symbol": "PEACE",
+  "description": "A Swiss token for peace and global unity.",
+  "image": "https://raw.githubusercontent.com/b0mb4rd/peace/main/peace.png",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/b0mb4rd/peace/main/peace.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
